@@ -74,7 +74,7 @@ def predict_growth(ph):
     if kind == "acidic":
         return "The seed may struggle. 🟡 Water is too acidic and may cause failure."
     # alkaline
-    return "The seed may struggle. 🟡 Water is too alkaline and may cause failure."
+    return "The seed may struggle. 🟡 Water is too alkaline and may cause failure and misbehave."
 
 
 # ───────────────────────────────────────────────────────
