@@ -87,6 +87,7 @@ def simulate_growth(ph, days=7):
     #     ...
 
     return results
+    
 
 
 # ───────────────────────────────────────────────────────
